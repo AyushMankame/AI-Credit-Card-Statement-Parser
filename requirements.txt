@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+pillow
+pytesseract
+google-genai
+python-dotenv
+pandas
+plotly
