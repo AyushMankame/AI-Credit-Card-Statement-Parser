@@ -36,3 +36,5 @@ This project combines **Google Gemini 2.5 Flash** (LLM-based extraction) with tr
 
 ## 🧩 Architecture Overview
 
+<img width="749" height="65" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/6b09a4b0-3135-43fe-970a-6625998be5d7" />
+
